@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	printf("ì´ê±´ ë˜ëƒ?\n");
-	cout << "ì•„ë‹ˆë©´ ì´ê²Œ ë˜ëƒ?" << endl;
+	printf("ÀÌ°Ç µÇ³Ä?\n");
+	cout << "¾Æ´Ï¸é ÀÌ°Ô µÇ³Ä?" << endl;
 	cout << "English" << endl;
 	return 0;
 }
